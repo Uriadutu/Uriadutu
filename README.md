@@ -1,4 +1,4 @@
-## Hallo Dunia
+## Hallo Dunia..
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;Frontend%20Developer;Mahasiswa%20De%20La%20Salle%20Manado;Coding%20Saja,%20Karena%20Nga%20So%20Deng%20Dia&center=true&width=700&height=45&color=3498db&vCenter=true&pause=1000&size=25" />
@@ -24,10 +24,10 @@
   </a>
 </p>
 
-## Bahasa dan Tools
+## Bahasa dan Tools:
 <p align="center"> <a href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,firebase,css,html,js,c,express,arduino,nodejs,react,php,tailwind,docker"> </a> </p>
 
-## My Stats:
+## Statistik:
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Uriadutu&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&bg_color=151515">
   <a href="https://github.com/Uriadutu">      
