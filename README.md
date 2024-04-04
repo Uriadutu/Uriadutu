@@ -25,7 +25,7 @@
 </p>
 
 ## Bahasa dan Tools:
-<p align="center"> <a href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,firebase,css,html,js,c,express,arduino,nodejs,react,php,tailwind,docker"> </a> </p>
+<p align="center"> <a href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,firebase,python,figma,js,c,express,arduino,nodejs,react,php,tailwind,docker"> </a> </p>
 
 
 <!-- ## Statistik:
