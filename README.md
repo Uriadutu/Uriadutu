@@ -28,13 +28,13 @@
 <p align="center"> <a href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,firebase,python,figma,js,c,express,arduino,nodejs,react,php,tailwind,docker"> </a> </p>
 
 
-<!-- ## Statistik:
+## Statistik:
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Uriadutu&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&bg_color=151515">
   <a href="https://github.com/Uriadutu">      
     <img height="200px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Uriadutu&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
   </a>
-</p> -->
+</p>
 
 
 
