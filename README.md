@@ -1,16 +1,5 @@
 ## Hallo Dunia... 
 
- const firebaseConfig = {
-  apiKey: "AIzaSyBAxmOv2c72odcdGQ2PlGZCIO2TD65iNK8",
-  authDomain: "nodemcu-fb601.firebaseapp.com",
-  databaseURL: "https://nodemcu-fb601-default-rtdb.firebaseio.com",
-  projectId: "nodemcu-fb601",
-  storageBucket: "nodemcu-fb601.appspot.com",
-  messagingSenderId: "702849587999",
-  appId: "1:702849587999:web:679b05fb7ba88033abee2a",
-  measurementId: "G-Y10ZZ9TMSF"
-};
- 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;Frontend%20Developer;Mahasiswa%20De%20La%20Salle%20Manado;Coding%20Saja,%20Karena%20Nga%20So%20Deng%20Dia&center=true&width=700&height=45&color=3498db&vCenter=true&pause=1000&size=25" />
 </h3> 
