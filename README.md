@@ -5,7 +5,7 @@
 </h3> 
 
 <h3 align="center">Hallooo, Saya <a href="https://github.com/Uriadutu">Uria Dutu</a></h3>
-<h5 align="center">&darr;&darr;Jangan lupa follow&darr;&darr;</h5>
+<!--<h5 align="center">&darr;&darr;Jangan lupa follow&darr;&darr;</h5>-->
 <p align="center">
   <a href="https://www.instagram.com/uriiaaaa?igsh=MXBsM2xwNnQzd25oZw==">
     <img src="https://img.shields.io/badge/uriiaaaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## Bahasa dan Tools:
+## L & T:
 <p align="center"> <a href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,firebase,python,figma,js,c,express,arduino,nodejs,react,php,tailwind,docker"> </a> </p>
 
 
