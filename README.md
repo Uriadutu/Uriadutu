@@ -5,8 +5,8 @@
 </h3>    
  
 <h3 align="center">Hallooo, Saya <a href="https://github.com/Uriadutu">Uria Dutu</a></h3> 
-<!--<h5 align="center">&darr;&darr;Jangan lupa follow&darr;&darr;</h5>
-<p align="center">
+<!--<h5 align="center">&darr;&darr;Jangan lupa follow&darr;&darr;</h5> -->
+<!-- <p align="center">
   <a href="https://www.instagram.com/uriiaaaa?igsh=MXBsM2xwNnQzd25oZw==">
     <img src="https://img.shields.io/badge/uriiaaaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -24,8 +24,8 @@
   </a>
 </p>
 
-## L & T:
-<p align="center"> <a  align="center" href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,firebase,python,figma,js,c,express,arduino,nodejs,react,php,tailwind,docker,typescript"> </a> </p>
+## L & T: -->
+<p align="center"> <a  align="center" href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,mysql,firebase,python,js,c,express,arduino,nodejs,react,php,tailwind,docker,typescript"> </a> </p>
 
 
 <!-- ## Statistik:
