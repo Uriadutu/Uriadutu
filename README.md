@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/uriiaaaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.tiktok.com/@uriadutu_">
-    <img src="https://img.shields.io/badge/CELCIUS•TM-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    <img src="https://img.shields.io/badge/404 | NotFound-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100084841355759">
     <img src="https://img.shields.io/badge/Uria&nbsp;Dutu-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
