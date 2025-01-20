@@ -24,7 +24,7 @@
 </p>
 
 <!-- ## L & T: -->
-<p align="center"> <a  align="center" href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,flask,mysql,firebase,python,js,c,cpp,express,sequelize,git,bootstrap,nextjs,postgresql,arduino,nodejs,react,php,tailwind,laravel,typescript"> </a> </p>
+<p align="center"> <a  align="center" href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,unity,figma,vercel,postman,git,flask,mysql,,firebase,python,js,c,cpp,express,sequelize,bootstrap,nextjs,postgresql,arduino,nodejs,react,php,tailwind,laravel,typescript"> </a> </p>
 
 
 <!-- ## Statistik:
