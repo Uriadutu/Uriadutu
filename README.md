@@ -4,7 +4,7 @@
 </h3> 
 <h3 align="center">Hallooo, Saya <a href="https://github.com/Uriadutu">Uria Dutu</a></h3> 
 <!--<h5 align="center">&darr;&darr;Jangan lupa follow&darr;&darr;</h5> -->
- <div align="center">
+ <div align="center"> 
 
   <a href="https://www.instagram.com/uriiaaaa?igsh=MXBsM2xwNnQzd25oZw==">
     <img src="https://img.shields.io/badge/uriiaaaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
