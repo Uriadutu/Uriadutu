@@ -33,7 +33,10 @@
    <table>
    <tr>
      <td>
- <a align="center" href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,unity,figma,vercel,postman,git,flask,mysql,firebase,python,js,cpp,express,opencv,tensorflow,c,sequelize,bootstrap,html,css,nextjs,postgresql,arduino,nodejs,react,php,tailwind,laravel,typescript"> </a> 
+       <div align="center">
+         
+ <a href="https://github.com/Uriadutu"><img src="https://skillicons.dev/icons?i=vscode,github,unity,figma,vercel,postman,git,flask,mysql,firebase,python,js,cpp,express,opencv,tensorflow,c,cs,sequelize,bootstrap,html,css,nextjs,postgresql,arduino,nodejs,react,php,tailwind,laravel,typescript"> </a> 
+       </div>
 </td>
    </tr>
      
